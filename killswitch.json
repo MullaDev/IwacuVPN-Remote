@@ -2,5 +2,5 @@
 ‎  "version": 3,
 ‎  "action": "wipe_targeted",
 ‎  "reason": "Unauthorized sharing detected",
-‎  "target_app_ids": ["fc085fb2d84a4ce8a58a6bea03eb1407"],
+‎  "target_app_ids": [fc085fb2d84a4ce8a58a6bea03eb1407],
 ‎}
