@@ -1,0 +1,16 @@
+‎{
+‎  "latest_version": "1.5",
+‎  "inbuilt_url": "https://github.com/MullaDev/iwacu_vpn/releases/download/V1.5/IWACU-VPN.v1.5.apk",
+‎  "manual_url": "https://iwacuvpn.netlify.app/",
+‎  "force_update": false,
+‎  "release_notes": [
+‎    "🚀 **IWACU VPN v1.5 – Faster & Smarter!**",
+‎    "",
+‎    "✅ **Bugs Fixed** – Smoother experience",
+‎    "🎨 **New UI** – Clean, modern, intuitive",
+‎    "📱 **Export Multiple Profiles** – Save time",
+‎    "🔄 **Import/Export Profiles** – Switch devices easily",
+‎    "📊 **Speed Graph Modified** – Monitor connection in real-time",
+‎    "⚡ **Performance Optimized** – Less battery, more speed"
+‎  ]
+‎}
