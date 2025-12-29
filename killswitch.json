@@ -1,8 +1,8 @@
 {
-  "version": 5,
-  "action": "none",
+  "version": 6,
+  "action": "wipe_target",
   "reason": "Unauthorized sharing detected",
   "target_app_ids": [
-    ""
+    "518b189e3b55483ba876a65a9aaa4845"
   ]
 }
